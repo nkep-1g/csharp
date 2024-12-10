@@ -16,7 +16,28 @@ namespace LeerlingenSecretariaat
 
         public VrijeStudieForm()
         {
+            _vrijeStudie = new VrijeStudie("Assisi", 100);
             InitializeComponent();
+            lokaalTextBox.Text = _vrijeStudie.Lokaal.ToString();
+            capaciteitTextBox.Text = _vrijeStudie.Capaciteit.ToString();
+            bezetTextBox.Text = _vrijeStudie.GereserveerdePlaatsen.ToString();
+
+        }
+
+        private void inschrijvenButton_Click(object sender, EventArgs e)
+        {
+            int aantal = Convert.ToInt32(aantalInschrijvenTextBox.Text);
+            if (_vrijeStudie.IsErNogPlaats(aantal) == true)
+            {
+                _vrijeStudie.GereserveerdePlaatsen += aantal;
+                boodschapTextBox.Text = "Inschrijving geslaagd";
+                bezetTextBox.Text = _vrijeStudie.GereserveerdePlaatsen.ToString();
+            }
+            else
+            {
+                boodschapTextBox.Text = "ONV capaciteit in lokaal " + _vrijeStudie.Lokaal;
+            }
+            aantalInschrijvenTextBox.Text = "";
         }
     }
 }
