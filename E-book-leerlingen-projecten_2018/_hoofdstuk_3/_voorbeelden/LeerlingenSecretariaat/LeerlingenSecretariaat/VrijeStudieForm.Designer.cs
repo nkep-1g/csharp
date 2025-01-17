@@ -163,7 +163,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(361, 282);
+            this.ClientSize = new System.Drawing.Size(631, 424);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.bezetTextBox);
             this.Controls.Add(this.capaciteitTextBox);
