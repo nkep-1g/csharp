@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\jorge\\documents\\github\\csharp\\oplossingen\\hoofdstuk2\\monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\monopoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|c:\\users\\jorge\\documents\\github\\csharp\\oplossingen\\hoofdstuk2\\monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StraatForm.cs",
-              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\StraatForm.cs",
-              "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
-              "ToolTip": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\StraatForm.cs",
-              "RelativeToolTip": "Monopoly\\StraatForm.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T13:49:37.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\Program.cs",
               "RelativeDocumentMoniker": "Monopoly\\Program.cs",
@@ -55,30 +42,47 @@
               "RelativeToolTip": "Monopoly\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T13:49:08.426Z"
+              "WhenOpened": "2025-01-17T13:49:08.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StraatForm.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeToolTip": "Monopoly\\StraatForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:49:37.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StraatForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\StraatForm.cs",
-              "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
-              "ToolTip": "C:\\Users\\joris.custers\\OneDrive - EDUGO Scholengroep\\Documenten\\E-book-leraren-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Monopoly\\Monopoly\\StraatForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\joris.custers\\OneDrive - EDUGO Scholengroep\\Documenten\\E-book-leraren-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Monopoly\\Monopoly\\StraatForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T13:48:35.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MonopolyStraat.cs",
               "DocumentMoniker": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\MonopolyStraat.cs",
               "RelativeDocumentMoniker": "Monopoly\\MonopolyStraat.cs",
               "ToolTip": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\MonopolyStraat.cs",
               "RelativeToolTip": "Monopoly\\MonopolyStraat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T13:48:25.004Z"
+              "WhenOpened": "2025-01-17T13:48:25.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StraatForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\StraatForm.cs",
+              "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\github\\csharp\\oplossingen\\hoofdstuk2\\Monopoly\\Monopoly\\StraatForm.cs [Design]",
+              "RelativeToolTip": "Monopoly\\StraatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:48:35.593Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
