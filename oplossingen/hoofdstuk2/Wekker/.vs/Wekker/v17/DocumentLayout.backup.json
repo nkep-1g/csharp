@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|c:\\users\\jorge\\documents\\c-sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\wekker\\wekker\\wekkerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|c:\\users\\jorge\\documents\\c-sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\wekker\\wekker\\wekker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|c:\\users\\jorge\\documents\\c-sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\wekker\\wekker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|c:\\users\\jorge\\documents\\c-sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\wekker\\wekker\\wekkerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|c:\\users\\jorge\\documents\\c-sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\wekker\\wekker\\wekkerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WekkerForm.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\WekkerForm.cs",
+              "RelativeDocumentMoniker": "Wekker\\WekkerForm.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\WekkerForm.cs*",
+              "RelativeToolTip": "Wekker\\WekkerForm.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:15:33.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\Program.cs",
+              "RelativeDocumentMoniker": "Wekker\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\Program.cs",
+              "RelativeToolTip": "Wekker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:14:29.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wekker.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\Wekker.cs",
+              "RelativeDocumentMoniker": "Wekker\\Wekker.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\Wekker.cs",
+              "RelativeToolTip": "Wekker\\Wekker.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:15:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WekkerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\WekkerForm.Designer.cs",
+              "RelativeDocumentMoniker": "Wekker\\WekkerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\WekkerForm.Designer.cs*",
+              "RelativeToolTip": "Wekker\\WekkerForm.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:14:42.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WekkerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\WekkerForm.cs",
+              "RelativeDocumentMoniker": "Wekker\\WekkerForm.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\C-Sharp-6de-middelbaar-jorgen\\csharp\\oplossingen\\hoofdstuk2\\Wekker\\Wekker\\WekkerForm.cs [Design]*",
+              "RelativeToolTip": "Wekker\\WekkerForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:14:12.056Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

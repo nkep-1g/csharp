@@ -17,3 +17,13 @@ F:\2018_2019\Drielagenmodel\_bronbestanden\_eindsituatie\_hoofdstuk_2\_voorbeeld
 F:\2018_2019\Drielagenmodel\_bronbestanden\_eindsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.csproj.CoreCompileInputs.cache
 F:\2018_2019\Drielagenmodel\_bronbestanden\_eindsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.exe
 F:\2018_2019\Drielagenmodel\_bronbestanden\_eindsituatie\_hoofdstuk_2\_voorbeelden\Wekker\Wekker\obj\Debug\Wekker.pdb
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\bin\Debug\Wekker.exe.config
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\bin\Debug\Wekker.exe
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\bin\Debug\Wekker.pdb
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\obj\Debug\Wekker.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\obj\Debug\Wekker.Properties.Resources.resources
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\obj\Debug\Wekker.WekkerForm.resources
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\obj\Debug\Wekker.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\obj\Debug\Wekker.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\obj\Debug\Wekker.exe
+C:\Users\jorge\Documents\C-Sharp-6de-middelbaar-jorgen\csharp\oplossingen\hoofdstuk2\Wekker\Wekker\obj\Debug\Wekker.pdb

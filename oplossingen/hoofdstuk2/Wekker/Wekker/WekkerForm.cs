@@ -62,5 +62,10 @@ namespace Wekker
             // tijdstip in het tekstvak updaten
             alarmOmTextBox.Text = _wekker.AlarmOm();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
