@@ -36,3 +36,13 @@ C:\Users\joris.custers\OneDrive - EDUGO Scholengroep\Documenten\E-book-leraren-p
 C:\Users\joris.custers\OneDrive - EDUGO Scholengroep\Documenten\E-book-leraren-projecten_2018\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
 C:\Users\joris.custers\OneDrive - EDUGO Scholengroep\Documenten\E-book-leraren-projecten_2018\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.exe
 C:\Users\joris.custers\OneDrive - EDUGO Scholengroep\Documenten\E-book-leraren-projecten_2018\_hoofdstuk_2\_voorbeelden\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\obj\Debug\Monopoly.StraatForm.resources
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\jorge\Documents\github\csharp\oplossingen\hoofdstuk2\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
