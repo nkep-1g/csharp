@@ -89,7 +89,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(202, 77);
+            this.ClientSize = new System.Drawing.Size(199, 76);
             this.Controls.Add(this.minuutOmlaagButton);
             this.Controls.Add(this.minuutOmhoogButton);
             this.Controls.Add(this.alarmOmTextBox);
